@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient(rgb(0, 57, 95), rgb(0, 80, 133), rgb(0, 106, 177));
+    background: linear-gradient(left to right rgb(0, 57, 95), rgb(0, 80, 133), rgb(0, 106, 177));
     color: white;
     
 }
