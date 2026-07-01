@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: linear-gradient(black, rgb(31, 31, 31), rgb(63, 63, 63));
+    color: white;
+    
+}
+
+/* h1, section, article, footer{
+    color: white;
+}
+
+a{
+    color: rgb(162, 206, 255);
+}
+ */ */
+*{
+    margin: 0;
+    padding: 0;
+}
