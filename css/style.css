@@ -5,6 +5,10 @@ body{
     
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
 /* h1, section, article, footer{
     color: white;
 }
@@ -12,8 +16,4 @@ body{
 a{
     color: rgb(162, 206, 255);
 }
- */ */
-*{
-    margin: 0;
-    padding: 0;
-}
+*/
