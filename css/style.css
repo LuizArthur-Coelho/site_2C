@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient(left to right rgb(0, 57, 95), rgb(0, 80, 133), rgb(0, 106, 177));
+    background: rgb(0, 57, 95);
     color: white;
     font-size: 1.5rem;
 }
@@ -10,10 +10,6 @@ body{
     padding: 0;
 }
 
-/* h1, section, article, footer{
-    color: white;
-}
-*/
 a{
     color: rgb(162, 206, 255);
     text-decoration: none;
